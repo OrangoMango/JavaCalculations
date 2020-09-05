@@ -1,2 +1,2 @@
-cd app/src
-java com.orangomango.javacalc.JavaCalculations
+cd app/output
+java -jar JavaCalculations.jar
