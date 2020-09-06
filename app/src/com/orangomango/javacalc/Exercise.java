@@ -21,7 +21,8 @@ public class Exercise {
   
   /**
    * Exercise class constructor
-   * @param number - number of current exercise, max - number of exercises
+   * @param number - number of current exercise
+   * @param max - number of exercises
    */
   public Exercise(int number, int max){
     this.number = number;
