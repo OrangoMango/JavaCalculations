@@ -8,4 +8,4 @@ Math with Java
 * Using the ```.jar``` file with the command: ```java -jar bin/JavaCalculations.jar```.
 
 # Documentation
-Documentation HTML is in the file ```doc/com/orangomango/javacalc/package-summary.html```, open it with your default browser
+Documentation HTML is in the file ```doc/documentation.tar```.
